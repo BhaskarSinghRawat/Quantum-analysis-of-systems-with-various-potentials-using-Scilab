@@ -12,11 +12,11 @@ Defined as high-level, numerically oriented programming language, scilab for me 
 
 ## Programing 
 
-Solving the s-wave Schrodinger equation for the ground state and first excited state of the Hydrogen atom. 
-Solving the s-wave radial Schrodinger equation for an atom, using Screened coulomb potential.
-Solving the s-wave radial Schrodinger equation for a particle with harmonic oscillator potential.
-Solving the s-wave radial Schrodinger equation for the vibration of Hydrogen molecole, using Morse potential. 
+1. Solving the s-wave Schrodinger equation for the ground state and first excited state of the Hydrogen atom. 
+2. Solving the s-wave radial Schrodinger equation for an atom, using Screened coulomb potential.
+3. Solving the s-wave radial Schrodinger equation for a particle with harmonic oscillator potential.
+4. Solving the s-wave radial Schrodinger equation for the vibration of Hydrogen molecole, using Morse potential. 
 
 ## Acknowledgement 
 
-I am so thankful to Dr. Nilesh Pathak for providing me my first taste of computational programing and appriciate its guidance in brightening my knowledge in this domane. 
+I am so thankful to Dr. Nilesh Pathak for providing me my first taste of computational programing and appreciate its guidance in brightening my knowledge in this domane. 
